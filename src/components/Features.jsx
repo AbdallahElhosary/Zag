@@ -13,7 +13,7 @@ const Features = () => {
                 </div>
                 <div className='grid grid-col-1 md:grid-cols-2 lg:grid-cols-3 mt-5 mb-5 gap-4'>
                     <div className='shadow-2xl'>
-                        <img src={feat1} alt="Watch" className='' />
+                        <img src={feat1} alt="Watch" className='w-full' />
                         <div className='bg-white px-2 pb-4'>
                             <div className='flex justify-between py-2 px-2'>
                                 <div className='stars flex gap-1 text-xl'>
@@ -31,7 +31,7 @@ const Features = () => {
                         </div>
                     </div>
                     <div className='shadow-2xl'>
-                        <img src={feat2} alt="Watch" className='' />
+                        <img src={feat2} alt="Watch" className='w-full' />
                         <div className='bg-white px-2 pb-4'>
                             <div className='flex justify-between py-2 px-2'>
                                 <div className='stars flex gap-1 text-xl'>
@@ -49,7 +49,7 @@ const Features = () => {
                         </div>
                     </div>
                     <div className='shadow-2xl'>
-                        <img src={feat3} alt="Watch" className='' />
+                        <img src={feat3} alt="Watch" className='w-full' />
                         <div className='bg-white px-2 pb-4'>
                             <div className='flex justify-between py-2 px-2'>
                                 <div className='stars flex gap-1 text-xl'>
